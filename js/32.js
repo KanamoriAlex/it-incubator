@@ -1,3 +1,3 @@
 // test
 //
-function number(num)
+function number(num);

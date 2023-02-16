@@ -17,6 +17,8 @@ function switchOfStuff(val) {
     return answer;  
   }
 
+
+
   /**Write a switch statement to set answer for the following conditions:
 a - apple
 b - bird

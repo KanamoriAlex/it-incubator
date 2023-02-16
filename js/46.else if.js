@@ -8,6 +8,7 @@ function testElseIf(val) {
   }
 }
 
+
 testElseIf(7);
 
 /* Convert the logic to use else if statements.

@@ -4,7 +4,7 @@ function isLess(a, b) {
 }
 
 // Change these values to test
-console.log(isLess(40, 15));
+console.log(isLess(20, 15));
 
 isLess(10, 15);
 
